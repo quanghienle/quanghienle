@@ -1,8 +1,6 @@
 
 <p align="center">
-  <img src="" style="width: 100%"/>
-  
-
+  <img src="/images/programmer.gif" style="width: 100%"/>
 </p>
 
 
