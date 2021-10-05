@@ -1,11 +1,15 @@
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghienle&layout=compact&langs_count=10&show_icons=true&theme=cobalt&hide_border=true&card_width=600)
+<p align="center">
+  <img src="" style="width: 100%"/>
+  
+
+</p>
 
 
 
 <!--
 [![Hien's GitHub stats](https://github-readme-stats.vercel.app/api?username=quanghienle&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghienle&layout=compact&langs_count=10&show_icons=true&theme=cobalt&hide_border=true&card_width=500" />
 **quanghienle/quanghienle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
